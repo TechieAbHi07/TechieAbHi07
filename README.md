@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechieAbHi07
+- 👋 Hi, I’m ABHINAV P MENON 
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning web development 
 
